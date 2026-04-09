@@ -71,9 +71,11 @@ The workflow includes:
 
 ## 📈 Visual Insights
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix_without_smote.png)
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve_without_smote.png)
+
+![Confusion Matrix](images/confusion_matrix_with_smote.png)
 
 ---
 
